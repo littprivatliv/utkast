@@ -10,7 +10,7 @@ Keiserud, Erik. (2009, 3. november). Vitne: jus. I Store norske leksikon. Hentet
 
 > Vitne, person som avgir forklaring for en domstol uten å være part i saken. […]
 >
-For plikten til å gi vitneforklaring (vitneprov) gjelder visse begrensninger. Et vitne kan f.eks. nekte å svare på et spørsmål når det kan forutsettes at svaret vil utsette vitnet eller noen av vitnets nærmeste for straff eller tap av borgerlig aktelse. I visse tilfeller kan et vitne være utelukket fra å forklare seg, f.eks. når det gjelder spørsmål som vitnet ikke kan svare på uten å krenke taushetsplikt.
+> For plikten til å gi vitneforklaring (vitneprov) gjelder visse begrensninger. Et vitne kan f.eks. nekte å svare på et spørsmål når det kan forutsettes at svaret vil utsette vitnet eller noen av vitnets nærmeste for straff eller tap av borgerlig aktelse. I visse tilfeller kan et vitne være utelukket fra å forklare seg, f.eks. når det gjelder spørsmål som vitnet ikke kan svare på uten å krenke taushetsplikt.
 > 
 > […]
 > 
