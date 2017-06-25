@@ -4,23 +4,95 @@ title: "Rettigheter"
 excerpt: ""
 ---
 
-# Må innarbeides
+# Grunnleggende begreper
 
-Forklare: politi, påtalemyndighet, retten, domsstol, NAV
+Keiserud, Erik. (2009, 3. november). Vitne: jus. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/vitne_-_jus>:
 
-Hvem kan få tilgang til hva under hvilke omstendigheter? politi, nav, andre myndigheter
+> Vitne, person som avgir forklaring for en domstol uten å være part i saken. […]
+>
+For plikten til å gi vitneforklaring (vitneprov) gjelder visse begrensninger. Et vitne kan f.eks. nekte å svare på et spørsmål når det kan forutsettes at svaret vil utsette vitnet eller noen av vitnets nærmeste for straff eller tap av borgerlig aktelse. I visse tilfeller kan et vitne være utelukket fra å forklare seg, f.eks. når det gjelder spørsmål som vitnet ikke kan svare på uten å krenke taushetsplikt.
+> 
+> […]
+> 
+> I straffesaker brukes betegnelsen vitne også om person som uten å være mistenkt/siktet forklarer seg for politiet. Politiet kan som hovedregel ikke pålegge noen å forklare seg for politiet. Unntak gjelder for offentlige tjenestemenn når forklaring kan skje uten å krenke deres taushetsplikt. Forklaringen skal skrives ned og undertegnes av vitnet. […]
 
+Keiserud, Erik. (2012, 19. juli). Mistenkt. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/mistenkt>:
 
+> Mistenkt, den som med en viss grad av sannsynlighet kan antas være den som har begått en forbrytelse som er gjenstand for etterforskning.
+>
+> Den som er mistenkt i en straffesak er i straffeprosessloven og påtaleinstruksen gitt enkelte rettigheter, bl.a. rett til å la seg bistå av forsvarer og som utgangspunkt rett til å få se dokumentene i saken, dog uten at det er angitt nærmere når en person har en slik status. Den som er siktet, vil alltid måtte ansees som mistenkt.
+>
+> Det byr på større problemer å trekke opp den «nedre» grensen. Er det usikkert om det er begått en straffbar handling, men klart hvem som i tilfelle er gjerningsmannen (såkalt ensidig mistanke), vil vedkommende måtte ansees som mistenkt når etterforskning igangsettes. Ved såkalt dobbeltsidig mistanke, hvor enten person A eller person B har begått noe straffbart, vil begge i praksis bli ansett som mistenkt dersom politiet foretar nærmere undersøkelser i saken. Dersom det er usikkert om det er begått en straffbar handling eller hvem som i tilfelle er den skyldige (såkalt ubestemt mistanke), vil det bero på en konkret vurdering om vedkommendes stilling er slik at han er spesielt utpekt, f.eks. på grunnlag av anmeldelse eller andre opplysninger i saken. Det er ikke nok at det er en mulighet for å rette mistanke mot vedkommende. Avgjørende vil være om etterforskningen kan sies å være rettet mot vedkommende.
+>
+> I forbindelse med avhør må politiet gjøre det klart hvilken status vedkommende har (mistenkt/siktet eller vitne), ettersom det gjelder ulike regler for avhøret avhengig av vedkommendes status.
+>
+> Den som er mistenkt har i utgangspunktet en forklaringsplikt som vitne så lenge vedkommende ikke regnes som siktet. Vedkommende plikter ikke å forklare seg om forhold som kan påføre straffeansvar eller tap av borgerlig aktelse. I Norge har imidlertid ingen forklaringsplikt for politiet, og man kan forlange seg avhørt ved rettslig avhør. Dersom påtalemyndigheten begjærer rettslig avhør av en mistenkt person vil vedkommende automatisk få status som siktet, og ikke lenger ha forklaringsplikt overhodet, jfr [strpl § 90](https://lovdata.no/lov/1981-05-22-25/§90).
+
+Elden, John Christian. (2015, 15. desember). Siktelse. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/siktelse>:
+
+> Siktelse, en formell anklage om straffbart forhold, fremsatt av påtalemyndigheten mot en mistenkt person. En siktelse utferdiges under en etterforskning og forutsetter at påtalemyndigheten mener det er <a class="crossref" href="https://snl.no/skjellig_grunn_til_mistanke">skjellig grunn til mistanke</a> om at et lovbrudd er begått. Det betyr at det er mer enn 50% sannsynlighet for straffeskyld. En siktelse opphører enten ved at saken henlegges, eller ved utferdigelse av <a class="crossref" href="https://snl.no/tiltalebeslutning">tiltalebeslutning </a>etter at etterforskningen er avsluttet og påtalemyndigheten er overbevist om at den siktede er straffeskyldig og at de mener de kan føre fullgode bevis for dette.
+>
+> Dersom politiet bruker <a class="crossref" href="https://snl.no/tvangsmidler/jus">tvangsmidler</a> mot en person, vil vedkommede også få formell status som siktet.
+
+«Tiltalebeslutning». (2015, 15. desember). I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/tiltalebeslutning>:
+
+> Tiltalebeslutning, påtale, anklage om utførelse av en straffbar handling, innbringelse av en straffesak for domstolene til rettslig forfølgning.
+>
+> Når en straffesak er tilstrekkelig forberedt gjennom etterforskning, skal <a class="crossref" href="http://snl.no/p%C3%A5talemyndigheten">påtalemyndigheten</a> uten opphold fatte beslutning om tiltale skal reises eller forelegg utferdiges. Spørsmålet om å reise tiltale avgjøres som hovedregel av <a class="crossref" href="http://snl.no/statsadvokat">statsadvokaten</a> når det gjelder alvorlige lovbrudd og av politiet når det gjelder alle lovbrudd med strafferamme under ett år, og en rekke vanlige lovbrudd med strafferamme under 6 år. Avgjørelsen treffes i visse tilfeller av <a class="crossref" href="http://snl.no/riksadvokat">riksadvokaten</a>, f.eks. når saken angår lovbrudd som kan straffes med fengsel i 21 år eller når saken har særlig stor allmenn interesse. Tiltale for straffbare handlinger som er foretatt i tjenesten av embetsmenn eller andre tjenestemenn tilsatt av Kongen, besluttes av <a class="crossref" href="http://snl.no/Kongen_i_statsr%C3%A5d">Kongen i statsråd</a>.
+>
+> Tiltalebeslutning skal bare tas ut når påtalemyndigheten både er overbevist om den siktedes straffeskyld og om at den vil greie å føre fullgode lovlige bevis for dette i retten. I motsatt fall skal saken <a href="http://snl.no/henleggelse">henlegges.</a>
+
+Keiserud, Erik. (2012, 14. august). Pågripelse. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/p%C3%A5gripelse>: «Pågripelse, betegnelse på en straffeprosessuell frihetsberøvelse som kan foretas av politiet overfor en person som med skjellig grunn mistenkes for en eller flere straffbare handlinger som kan medføre høyere straff enn fengsel i seks måneder.»
+
+Avhør. (2009, 14. februar). I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/avh%C3%B8r>:
+
+> Avhør, politiets og rettens avhør av mistenkte/siktede og vitner under etterforskningen i en straffesak.
+> 
+> En som er pågrepet eller fengslet, må finne seg i at politiet avhører ham, men han har ingen plikt til å avgi forklaring. Vitner har som hovedregel ikke plikt til å forklare seg overfor politiet. […] Etter en lovendring i 2002 har mistenkte og et vitne plikt til å møte for politiet for å avklare om han eller hun er villig til å forklare seg for politiet selv om mistenkte og vitnet ikke kan pålegges å forklare seg.
+>
+> Dersom et vitne skulle nekte å avgi politiforklaring, må det i tilfelle fremstilles for tingretten, hvor det har forklaringsplikt, såkalt rettslig avhør. Unntak fra vitneplikten gjelder bl.a. hvor vitnet står i et nært slektskapsforhold til siktede eller tilhører en yrkesgruppe som har taushetsplikt om betrodde forhold. Den som er siktet i saken, har ikke plikt til å forklare seg overfor retten. Han kan heller ikke straffes dersom han gir en usann forklaring om det forhold han er siktet for. Disse reglene gjelder tilsvarende når et vitne forklarer seg under hovedforhandlingen i en straffesak. Under avhør av vitner i retten vil normalt siktede ha rett til å være til stede. Retten kan imidlertid i nærmere angitte tilfeller, f.eks. ved anonym vitneførsel (se vitne), bestemme at siktede skal forlate rettssalen under avhøret. I sedelighetssaker vil dommeren kunne bestemme at avhør av et vitne under 14 år eller med psykisk utviklingshemming skal skje utenfor rettsmøte (såkalt dommeravhør). Siktede vil ikke ha krav på å være til stede ved slike avhør. Har siktede forsvarer, vil forsvareren normalt bli gitt anledning til å overvære avhøret.
+>
+> Politiet og retten vil etter nærmere regler som fastsettes av Kongen (regjeringen) kunne ta lydopptak av forklaringer som avgis av mistenkte/siktede og vitner. Ved dommeravhør i sedelighetssaker skal avhøret normalt tas opp ved videoopptak.
+>
+> […]
+
+Se også <https://www.domstol.no/no/Straffesak/Aktorene-i-retten/Tiltalt-eller-siktet/>.	Politiet og retten kan bruke det mot en dersom en velger å ikke forklare seg.
+
+straffeprosessloven §230: Politiet kan ikke pålegge noen å forklare seg
+
+Rettigheter som pågrepet: https://www.ung.no/kriminalitet/281_Rettigheter_som_pågrepet.html
+
+MISTENKT.NO En side for deg som politiet mistenker for å være kriminell.
+
+jusinfo.no har mye info
+
+Krag, Erik & Elden, John Christian. (2015, 31. desember). Påtalemyndigheten. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/p%C3%A5talemyndigheten>.
+
+«Rett: domstol». (2012, 22. oktober). I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/rett_-_domstol>: «I juridisk forstand blir 'retten' ofte brukt i betydningen 'domstolen'.»
+
+Aasland, Gunnar. (2010, 2. februar). Sivilprosess. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/sivilprosess>.
+
+Keiserud, Erik. (2013, 21. juni). Straffeprosess. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/straffeprosess>.
+
+Hvem kan få tilgang til hvilke opplysninger under hvilke omstendigheter? politi, NAV, andre myndigheter
+
+https://foreninger.uio.no/jussbuss/ Jussbuss er et rettshjelpstiltak som drives av jusstudenter
+
+https://foreninger.uio.no/jussbuss/Ressurser/brosjyrer/Fangehåndboka
 
 
 # Bevis
 
-Hvilke bevis er lovlige?
+Keiserud, Erik. (2011, 25. mai). Bevis: jus. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/bevis_-_jus>.
 
-Kan også personopplysninger som behandles ulovlig, bruker som bevis av politiet?
+**Hvilke bevis er lovlige?**
+
+Kan også personopplysninger som behandles ulovlig og som politiet beslaglegger, brukes som bevis i retten?
 	Det som står på jusinfo.no, tyder på det.
 
 bevisforbud, bevisavskjæring, beslag, bevis: jusinfo.no
+
+Hva med bevis i straffeprosesser?
 
 ## Fra [Lov om mekling og rettergang i sivile tvister (tvisteloven). Femte del - Bevis.](https://lovdata.no/dokument/NL/lov/2005-06-17-90/KAPITTEL_5#KAPITTEL_5)
 
@@ -58,8 +130,15 @@ Se [rundskriv til § 21-4](https://www.nav.no/rettskildene/Rundskriv/21-4-innhe
 
 Dette gjelder også trafikkdata, jf. «[En ‘finte’ fra regjeringen? NAV får ‘fri’ tilgang til trafikkdata.](http://www.uhuru.biz/?p=443)» av Jon Wessel-Aas.
 
+## Ligningsmyndigheter
+
+?
 
 # Ransaking
+
+Elden, John Christian & Krag, Erik. (2017, 7. februar). Ransaking. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/ransaking>: «Ransaking, tvangsmiddel som består i at bolig, rom eller person blir undersøkt av politiet i anledning av en straffesak.»
+
+## [Lov om rettergangsmåten i straffesaker (Straffeprosessloven). Fjerde del. Tvangsmidler. Kap 15. Ransaking.](https://lovdata.no/dokument/NL/lov/1981-05-22-25/KAPITTEL_4-3)
 
 > **§ 192.** Når noen med skjellig grunn mistenkes for en handling som etter loven
 kan medføre frihetsstraff, kan det foretas ransaking av hans bolig, rom
@@ -261,31 +340,33 @@ plikter først å underrette den militære sjef på stedet.
 
 # Beslag
 
+«Beslag: jus». (2017, 8. februar). I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/beslag_-_jus>.
+
+> I prinsippet kan enhver ting som kan tjene som bevis for at et straffbart forhold har funnet sted, beslaglegges som bevis. Begrepet ting omfatter her enhver gjenstand eller opplysning som er sikret manuelt eller elektronisk, herunder informasjon fra overvåkningskameraer og oversikt over telefontrafikk.
+>
+> I enkelte tilfeller er beslag av dokumenter avskåret fordi de inneholder opplysninger om forhold som er undergitt taushetsplikt, eller som et vitne kan nekte å forklare seg om. Korrespondanse mellom en person og hans advokat eller lege om forhold som omfattes av advokatens eller legens taushetsplikt, vil for eksempel ikke kunne beslaglegges, verken hos advokaten/legen eller hos klienten. Også opplysninger som indikerer at det foreligger et pasient- eller klientforhold, er taushetsbelagt. Hverken politiet eller retten har lov til å motta slike taushetsbelagte opplysninger, jf. straffeprosessloven § 119.
+>
+> Overleveres ikke tingen frivillig, kan påtalemyndigheten beslutte at tingen skal beslaglegges. En polititjenestemann kan uten slik beslutning ta foreløpig beslag når han foretar ransaking eller pågripelse, og ellers når det er fare ved opphold. Beslaget skal da forelegges påtalemyndigheten som straks bestemmer om det skal opprettholdes. Enhver som rammes av beslag, skal straks underrettes om dette, med mindre retten har bestemt at underretning kan utsettes av hensyn til etterforskningen. Både den beslaget tas hos og den etterforskningen rettes mot, anses som rammet av beslaget. Den som rammes kan bringe inn for retten spørsmålet om beslaget skal opprettholdes.
+>
+> Et grunnvilkår for å foreta et beslag er at det foreligger [skjellig grunn til mistanke](https://snl.no/skjellig_grunn_til_mistanke) om at det har skjedd et lovbrudd. Når det besluttes beslag i en straffesak, regnes den som måtte være mistenkte som siktet, jf. straffeprosessloven § 82.
+
+**Hva med ransaking/beslag som i ettertid viser seg å ha skjedd uten skjellig grunnlag?**
+
+# Kommunikasjonskontroll
+
+Elden, John Christian. (2015, 21. desember). Kommunikasjonskontroll: (telefonavlytting). I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/kommunikasjonskontroll_-_(telefonavlytting)>: «Kommunikasjonskontroll, hemmelig avlytting av telefonsamtale eller databasert kommunikasjon. Tidligere kalt telefonavlytting.»
+
+Må innarbeides, spesielt med tanke på overskuddsinformasjon.
+
+
 ## [Lov om rettergangsmåten i straffesaker (Straffeprosessloven). Fjerde del. Tvangsmidler. Kap 16. Beslag og utleveringspålegg.](https://lovdata.no/dokument/NL/lov/1981-05-22-25/KAPITTEL_4-6#KAPITTEL_4-6)
 
 Må innarbeides.
 
+
 # [Alminnelig tjenesteinstruks for politiet (politiinstruksen)](https://lovdata.no/dokument/INS/forskrift/1990-06-22-3963)
 
 Må innarbeides.
-
-# Pågrepet, tiltalt, siktet
-
-Forklare begrepene
-
-<https://www.domstol.no/no/Straffesak/Aktorene-i-retten/Tiltalt-eller-siktet/>:	Trenger ikke å forklare seg; politiet og retten kan bruke det mot deg
-
-straffeprosessloven §230: Politiet kan ikke pålegge noen å forklare seg
-
-Rettigheter som pågrepet: https://www.ung.no/kriminalitet/281_Rettigheter_som_pågrepet.html
-
-MISTENKT.NO En side for deg som politiet mistenker for å være kriminell.
-
-jusinfo.no har mye info
-
-https://foreninger.uio.no/jussbuss/ Jussbuss er et rettshjelpstiltak som drives av jusstudenter
-
-https://foreninger.uio.no/jussbuss/Ressurser/brosjyrer/Fangehåndboka
 
 
 * * *
