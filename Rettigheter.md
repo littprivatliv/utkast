@@ -4,6 +4,16 @@ title: "Rettigheter"
 excerpt: ""
 ---
 
+https://foreninger.uio.no/jussbuss/ Jussbuss er et rettshjelpstiltak som drives av jusstudenter
+
+https://foreninger.uio.no/jussbuss/Ressurser/brosjyrer/Fangehåndboka
+
+https://www.ung.no/lovogrett/3054_Slik_foregår_en_rettssak.html
+
+http://barneombudet.no/dine-rettigheter/til-a-bli-rettferdig-behandlet/hva-skjer-i-en-rettssak/
+
+https://no.wikipedia.org/wiki/Norsk_straffeprosess#Gangen_i_en_straffesak
+
 # Grunnleggende begreper
 
 Keiserud, Erik. (2009, 3. november). Vitne: jus. I Store norske leksikon. Hentet 25. juni 2017 fra <https://snl.no/vitne_-_jus>:
@@ -56,7 +66,9 @@ Avhør. (2009, 14. februar). I Store norske leksikon. Hentet 25. juni 2017 fra <
 >
 > […]
 
-Se også <https://www.domstol.no/no/Straffesak/Aktorene-i-retten/Tiltalt-eller-siktet/>.	Politiet og retten kan bruke det mot en dersom en velger å ikke forklare seg.
+Se også <https://www.domstol.no/no/Straffesak/Aktorene-i-retten/Tiltalt-eller-siktet/>.	Politiet og retten kan bruke det mot en dersom en velger å ikke forklare seg ([straffeprosessloven § 93](https://lovdata.no/lov/1981-05-22-25/§93))
+
+rettslig avhør av siktede: http://jusinfo.no/index.php?site=default/721/1930/1939/1942
 
 straffeprosessloven §230: Politiet kan ikke pålegge noen å forklare seg
 
@@ -76,10 +88,38 @@ Keiserud, Erik. (2013, 21. juni). Straffeprosess. I Store norske leksikon. Hente
 
 Hvem kan få tilgang til hvilke opplysninger under hvilke omstendigheter? politi, NAV, andre myndigheter
 
-https://foreninger.uio.no/jussbuss/ Jussbuss er et rettshjelpstiltak som drives av jusstudenter
 
-https://foreninger.uio.no/jussbuss/Ressurser/brosjyrer/Fangehåndboka
+## Forklaringsplikt
 
+Fra [Ot.prp. nr. 66 (2001-2002). Om lov om endringer i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.):
+
+> # [9 Møte- og forklaringsplikt for politiet](https://www.regjeringen.no/no/dokumenter/otprp-nr-66-2001-2002-/id168823/sec9)
+>
+> ## 9.1 Gjeldende rett og arbeidsgruppens forslag
+>
+> Den siktede plikter å møte i retten, men har ikke plikt til å forklare seg (straffeprosessloven § 85, jf. § 90). Vitner har som hovedregel både møteplikt og forklaringsplikt for retten, jf. § 108, men det er gjort viktige unntak, jf. §§ 109 flg.
+> 
+> For politiet er utgangspunktet det motsatte. Verken den mistenkte eller vitner har noen generell plikt til å møte frem for eller til å forklare seg for politiet. Men det gjelder visse unntak også her: På forespørsel må alle oppgi navn, fødselsdato, fødselsår, stilling og bopel til politiet, jf. straffeloven § 333. Offentlige tjenestemenn og andre som handler på vegne av stat eller kommune, plikter i tillegg å gi forklaring om «forhold de er blitt kjent med i sin stilling eller sitt verv», jf. straffeprosessloven § 230 første ledd.
+> 
+> En mistenkt kan pågripes når vilkårene i straffeprosessloven § 171 er oppfylt. Personer som treffes på eller ved et sted der det må antas å være begått en forbrytelse, kan politiet innbringe til politistasjon og holde der inntil fire timer, jf. politiloven § 8. Bestemmelsen skal gjøre det enklere å sjekke potensielle gjerningspersoner ut av eller inn i saken. Innbringelse av vitner kan særlig være aktuelt når det er upraktisk å nedtegne personalia på åstedet, f.eks. fordi det dreier seg om et stort antall vitner og ressursene må brukes til annet arbeid, f.eks. bevissikring.
+> 
+> Nekter et vitne å forklare seg for politiet, kan politiet begjære rettslig avhør (§ 237), og for retten har vitnet som hovedregel møte- og forklaringsplikt, jf. § 108. Denne fremgangsmåten kan derimot ikke brukes overfor mistenkte som nekter å forklare seg for politiet, siden de heller ikke har forklaringsplikt for retten.
+> 
+> Et vitne som uten gyldig forfall unnlater å møte for retten, kan straffes med bøter og pålegges å erstatte de omkostninger som er voldt (domstolloven § 205). Retten kan dessuten beslutte å avhente vitnet (straffeprosessloven § 115 første ledd første punktum). I særlige tilfeller kan vitnet holdes i fengslig forvaring (annet punktum). Domstolloven § 206 og straffeprosessloven § 137 har tilsvarende regler for et vitne som nekter å forklare seg.
+> 
+> Arbeidsgruppe I har vurdert om vitner bør ha møteplikt og forklaringsplikt for politiet, samt om den mistenkte bør kunne pålegges å møte frem til politiavhør.
+> 
+> Arbeidsgruppen slår fast at forklaringsplikt for den mistenkte er uaktuelt. Det foreligger heller ikke noe praktisk behov for møteplikt for den mistenkte. Vilkårene for pågripelse vil som regel være oppfylt der det kunne vært aktuelt å pålegge slikt oppmøte.
+> 
+> Derimot foreslår arbeidsgruppen at vitner får møteplikt for politiet. Men heller ikke vitner bør ha forklaringsplikt. Retten bør uansett ta stilling til om det foreligger forklaringsplikt der vitnet påberoper seg en fritaksgrunn, og det bør være adgang til kjæremål. Videre bør det være retten som vurderer sanksjoner ved manglende overholdelse av forklaringsplikten. Derfor vil det være lite å oppnå ved en forklaringsplikt.
+
+…som førte til følgende tekst i [Lov om endringer i straffeprosessloven mv. (hurtigere straffesaksbehandling, varetektsfengsling i isolasjon mv.)](https://www.stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Odelstinget/2001-2002/beso-200102-078/):
+
+> § 230 nytt annet ledd skal lyde:
+>
+>Selv om et vitne ikke har forklaringsplikt etter første ledd, plikter vitnet etter innkalling å møte på politistasjon eller lensmannskontor i det politidistrikt hvor han bor eller oppholder seg for å avklare om han er villig til å forklare seg for politiet. Det samme gjelder for mistenkte. §§ 110, 112, 113 og 114 gjelder tilsvarende så langt de passer. Påtalemyndigheten kan beslutte at en mistenkt eller et vitne skal avhentes for straks å fremstilles dersom den mistenkte eller vitnet har fått innkallingen lovlig forkynt for seg eller på annen måte har fått kjennskap til innkallingen, og har uteblitt uten gyldig forfall.
+>
+> Nåværende annet til fjerde ledd blir tredje til nytt femte ledd.
 
 # Bevis
 
