@@ -107,7 +107,7 @@ Fra [Ot.prp. nr. 66 (2001-2002). Om lov om endringer i straffeprosessloven mv. (
 > 
 > Et vitne som uten gyldig forfall unnlater å møte for retten, kan straffes med bøter og pålegges å erstatte de omkostninger som er voldt (domstolloven § 205). Retten kan dessuten beslutte å avhente vitnet (straffeprosessloven § 115 første ledd første punktum). I særlige tilfeller kan vitnet holdes i fengslig forvaring (annet punktum). Domstolloven § 206 og straffeprosessloven § 137 har tilsvarende regler for et vitne som nekter å forklare seg.
 > 
-> Arbeidsgruppe I har vurdert om vitner bør ha møteplikt og forklaringsplikt for politiet, samt om den mistenkte bør kunne pålegges å møte frem til politiavhør.
+> *Arbeidsgruppe I* har vurdert om vitner bør ha møteplikt og forklaringsplikt for politiet, samt om den mistenkte bør kunne pålegges å møte frem til politiavhør.
 > 
 > Arbeidsgruppen slår fast at forklaringsplikt for den mistenkte er uaktuelt. Det foreligger heller ikke noe praktisk behov for møteplikt for den mistenkte. Vilkårene for pågripelse vil som regel være oppfylt der det kunne vært aktuelt å pålegge slikt oppmøte.
 > 
@@ -117,7 +117,7 @@ Fra [Ot.prp. nr. 66 (2001-2002). Om lov om endringer i straffeprosessloven mv. (
 
 > § 230 nytt annet ledd skal lyde:
 >
->Selv om et vitne ikke har forklaringsplikt etter første ledd, plikter vitnet etter innkalling å møte på politistasjon eller lensmannskontor i det politidistrikt hvor han bor eller oppholder seg for å avklare om han er villig til å forklare seg for politiet. Det samme gjelder for mistenkte. §§ 110, 112, 113 og 114 gjelder tilsvarende så langt de passer. Påtalemyndigheten kan beslutte at en mistenkt eller et vitne skal avhentes for straks å fremstilles dersom den mistenkte eller vitnet har fått innkallingen lovlig forkynt for seg eller på annen måte har fått kjennskap til innkallingen, og har uteblitt uten gyldig forfall.
+> > Selv om et vitne ikke har forklaringsplikt etter første ledd, plikter vitnet etter innkalling å møte på politistasjon eller lensmannskontor i det politidistrikt hvor han bor eller oppholder seg for å avklare om han er villig til å forklare seg for politiet. Det samme gjelder for mistenkte. §§ 110, 112, 113 og 114 gjelder tilsvarende så langt de passer. Påtalemyndigheten kan beslutte at en mistenkt eller et vitne skal avhentes for straks å fremstilles dersom den mistenkte eller vitnet har fått innkallingen lovlig forkynt for seg eller på annen måte har fått kjennskap til innkallingen, og har uteblitt uten gyldig forfall.
 >
 > Nåværende annet til fjerde ledd blir tredje til nytt femte ledd.
 
