@@ -258,7 +258,7 @@ pågrepet](https://www.ung.no/kriminalitet/281_Rettigheter_som_pågrepet.html)
 > bevis for dette i retten. I motsatt fall skal saken <a
 > href="http://snl.no/henleggelse">henlegges.</a> [SNL,
 > [«Tiltalebeslutning»](https://snl.no/tiltalebeslutning "«Tiltalebeslutning».
-> (2015, 15. desember). I Store norske leksikon. Hentet 25. juni 2017.")
+> (2015, 15. desember). I Store norske leksikon. Hentet 25. juni 2017.")]
 
 
 > **Hva skjer i domstolen?**
